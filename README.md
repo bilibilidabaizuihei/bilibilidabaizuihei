@@ -8,10 +8,10 @@
 
 !!How to contect me!!
 
-Facebook:dabaizuihei_official
-Twitter@dabaizuihei
-QQ1160141145
-bilibili:大白最黑_Official
+- Facebook:dabaizuihei_official
+- Twitter@dabaizuihei
+- QQ1160141145
+- bilibili:大白最黑_Official
 
 
 <!---
