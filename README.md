@@ -1,3 +1,5 @@
+# Start!
+
 - 👋 Hi, I’m @bilibilidabaizuihei
 - 👀 I’m kiger/Geek
 - A New Git Learner/Student
@@ -6,12 +8,12 @@
 - Operating System:Windows/Mac OC/Chrome OS/Ubuntu
 
 
-!!How to contect me!!
+# How to follow me
 
 - Facebook:dabaizuihei_official
-- Twitter@dabaizuihei
+- Twitter[@dabaizuihei](twitter.com/@dabaizuihei)
 - QQ1160141145
-- bilibili:大白最黑_Official
+- bilibili:[大白最黑_Official](https://space.bilibili.com/338325981)
 
 
 <!---
