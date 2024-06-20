@@ -18,7 +18,7 @@
 - Youtube:[大白最黑](https://www.youtube.com/@dabaizuihei)
 - Discord:dabaizuihei#0337
 - Twitch:dabaizuihei
-- x:![twitter](https://img.shields.io/twitter/follow/dabaizuihei?style=flat-square&logo=twitter&logoColor=blue)
+- X:[大白最黑](https://x.com/dabaizuihei) OR [Shiragawa_Hiroki](https://x.com/dabaizuihei_day)
 - QQ:1160141145
 - bilibili:[大白最黑_Official](https://space.bilibili.com/338325981)
 - Weibo:[大白最黑](https://weibo.com/u/5536925802)
